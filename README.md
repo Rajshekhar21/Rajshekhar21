@@ -30,13 +30,6 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
-### 🌟 Featured Repositories
-
-Here are some of my featured projects:
-
-1. [Project 1]([https://github.com/yourusername/project1](https://www.linkedin.com/in/rajshekhar-das/)) - Brief description.
-2. [Project 2](https://github.com/yourusername/project2) - Brief description.
-3. [Project 3](https://github.com/yourusername/project3) - Brief description.
 
 Feel free to explore my repositories to see more of my work and don't hesitate to reach out if you'd like to collaborate or discuss any projects. Thanks for visiting!
 
