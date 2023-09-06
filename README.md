@@ -17,19 +17,14 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 
 ### 📚 Education
 
-- [Your Degree, e.g., Bachelor of Science in Computer Science](University Name, Year)
+- [B. Com Honours in Accountancy](Kalyani University, 2019)
 - [Any relevant certifications or courses]
-
-### 🏆 Achievements
-
-- [Any awards or achievements related to your field]
 
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourusername/)
 - [Personal Website/Blog](https://www.yourwebsite.com)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:rajshekhardas2001@gmail.com)
 
 ### 📊 GitHub Stats
 
@@ -39,7 +34,7 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 
 Here are some of my featured projects:
 
-1. [Project 1](https://github.com/yourusername/project1) - Brief description.
+1. [Project 1]([https://github.com/yourusername/project1](https://www.linkedin.com/in/rajshekhar-das/)) - Brief description.
 2. [Project 2](https://github.com/yourusername/project2) - Brief description.
 3. [Project 3](https://github.com/yourusername/project3) - Brief description.
 
