@@ -1,3 +1,4 @@
+![alt text]([http://url/to/img.png](https://i.pinimg.com/564x/86/c2/e3/86c2e316bf20a1d4efbd91f4cf8d0ffa.jpg))
 # Rajshekhar Das
 
 ## 👨‍💻 Junior Full-Stack Developer | Kolkata, India
