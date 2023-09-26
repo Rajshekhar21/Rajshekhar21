@@ -4,7 +4,7 @@
 
 html {
   font-family: "Rubik", sans-serif;
-  background: rgba(2, 0, 36, 1);
+  /* background: rgba(2, 0, 36, 1); */
 }
 body {
   color: aliceblue;
@@ -14,9 +14,14 @@ body {
     rgba(62, 9, 121, 1) 53%,
     rgba(255, 0, 140, 1) 100%
   ); */
-  background: black;
+  background: #1b1e23;
 }
 .font-fira {
   font-family: "Fira Code", monospace;
+  font-size: large;
+}
+.logo {
+  color:blueviolet;
+  font-weight: 800;
   font-size: large;
 }

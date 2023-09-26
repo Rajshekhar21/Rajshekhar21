@@ -5,12 +5,14 @@ import Layout from "@/layouts";
 import Header from "@/layouts/header";
 import Footer from "@/layouts/footer";
 import Hero from "@/components/home/Hero";
+import About from "@/components/home/About";
 
 const Home = ({ Component, ...props }: AppProps) => {
   return (
     <Layout>
       <Header />
       <Hero />
+      <About />
       <Footer />
     </Layout>
   );

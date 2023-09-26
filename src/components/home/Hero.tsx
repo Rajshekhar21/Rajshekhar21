@@ -20,7 +20,7 @@ const Hero = () => {
         >
           <div className=" flex flex-col justify-center items-start row-start-2 sm:row-start-1">
             <h1 className="text-2xl lg:text-3xl xl:text-4xl font-medium text-black-600 leading-normal">
-              Hey, Welcome to My Portfolio
+              I am Rajshekhar Das,
             </h1>
             <p className="text-black-500 mt-4 mb-6">
               I am a Full-Stack Developer focusing on Progressive Web Applications and Mobile
