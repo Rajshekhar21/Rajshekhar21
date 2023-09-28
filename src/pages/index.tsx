@@ -6,6 +6,7 @@ import Header from "@/layouts/header";
 import Footer from "@/layouts/footer";
 import Hero from "@/components/home/Hero";
 import About from "@/components/home/About";
+import ContactIcon from "@/components/Chat";
 
 const Home = ({ Component, ...props }: AppProps) => {
   return (
@@ -13,6 +14,7 @@ const Home = ({ Component, ...props }: AppProps) => {
       <Header />
       <Hero />
       <About />
+      <ContactIcon/>
       <Footer />
     </Layout>
   );
