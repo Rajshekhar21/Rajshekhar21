@@ -1,6 +1,6 @@
 # Rajshekhar Das
 
-## 👨‍💻 Junior Full-Stack Developer | Kolkata, India
+## 👨‍💻 Full-Stack Developer | Kolkata, India
 
 Welcome to my GitHub profile! I'm a dedicated software engineer with a passion for crafting elegant and efficient solutions to complex problems. My expertise spans a variety of programming languages and technologies, enabling me to tackle a wide range of projects. 
 
@@ -18,11 +18,10 @@ Welcome to my GitHub profile! I'm a dedicated software engineer with a passion f
 ### 📚 Education
 
 - [B. Com Honours in Accountancy](Kalyani University, 2019)
-- [Any relevant certifications or courses]
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [LinkedIn](https://www.linkedin.com/in/rajshekhar-das/)
 - [Personal Website/Blog](https://www.yourwebsite.com)
 - [Email](mailto:rajshekhardas2001@gmail.com)
 
